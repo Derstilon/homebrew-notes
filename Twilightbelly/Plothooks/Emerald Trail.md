@@ -1,0 +1,1 @@
+The route through [[Dustswept Plateau]] that allows safe travel between [[Mossveil Marshlands]] and [[Glyphpeak Gorge]] as long one has access to experienced **Trailsworn** from the [[Veltoch Tribe]]

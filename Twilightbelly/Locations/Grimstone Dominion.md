@@ -1,12 +1,12 @@
 # Geography
 ## Points of interest
-Boghsend Citadel
-Wayfarer's Rest
-Gorgewatch Outpost
+[[Boghzend Keep]]
+[[Wayfarer's Rest]]
+[[Gorgewatch Outpost]]
 Entrance to the [[Eonholme Bowels]]
 ## Subareas
 [[Mossveil Marshlands]]
-[[Sandswept Plateau]]
+[[Dustswept Plateau]]
 [[Glyphpeak Gorge]]
 ## Inhabitants
 [[Jotun Stone Giants]]

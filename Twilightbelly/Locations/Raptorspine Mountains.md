@@ -1,6 +1,6 @@
 # Geography
 ## Points of interest
-Bellybreak Passage
+[[Bellybreak Passage]]
 ## Inhabitants
 [[Mournwillow]]
 ## Neighboring areas

@@ -1,7 +1,7 @@
 # Geography
 ## Points of interest
-Orchard Grove
-Gunzar Camp
+[[Orchard Grove]]
+[[Gunzar Camp]]
 ## Subareas
 [[City-state of Phalan]]
 ## Inhabitants

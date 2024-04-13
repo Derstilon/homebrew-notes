@@ -1,0 +1,3 @@
+> [!quote] Throughout the PASSAGE of years, My BELLY has never taken a BREAK.
+
+The only safe passage through [[Raptorspine Mountains]] between [[Ticklebelly Hills]] and [[Mossveil Marshlands]]. The name comes from resentment from the [[Ticklebelly Hill Dwarfs]] that have tried this route long time ago but it proved to be too much for their nomadic clans to manage. The only known Dwarf to ever reach the [[Boghzend Keep]] is [[Ulgrim Twilightbelly]]

@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "be749332541be13d",
+        "id": "03ca0d1fe7098124",
         "type": "tabs",
         "children": [
           {
-            "id": "c43197e5e3d12696",
+            "id": "34d6bfca1facff87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Starcrest/Imperials.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -69,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 271.5
   },
   "right": {
     "id": "2cda566aac03114c",
@@ -85,14 +82,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Starcrest/Imperials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -102,9 +98,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Starcrest/Imperials.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -124,71 +119,72 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Starcrest/Imperials.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "calendarium:Open Calendarium": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "c43197e5e3d12696",
+  "active": "34d6bfca1facff87",
   "lastOpenFiles": [
-    "Starcrest Family.md",
-    "Starcrest/Imperials.md",
+    "src/Fortune dragon.png",
     "Starcrest/Characters/Cedric Starcrest.md",
-    "Starcrest/Moonbound Beastfolk.md",
-    "Twilightbelly/Ticklebelly Hill Dwarfs.md",
-    "Twilightbelly/Locations/Eonholme Bowels.md",
-    "Twilightbelly/Locations/Grimstone Dominion.md",
-    "Twilightbelly/Locations/Untitled.md",
-    "Twilightbelly/Locations/City-state of Phalan.md",
-    "Twilightbelly/Locations/Raptorspine Mountains.md",
     "Twilightbelly/Characters/Ulgrim Twilightbelly.md",
-    "Tomluk's Campaign.md",
-    "Twilightbelly/Jotun Stone Giants.md",
-    "Twilightbelly/Humans of Phalan.md",
-    "Twilightbelly/Dragons.md",
+    "Twilightbelly/Characters/Mournwillow.md",
+    "Twilightbelly/Characters/Atlas Agate.md",
+    "Twilightbelly/Characters/Silt Slate.md",
     "Twilightbelly/Characters/Ashen Marble.md",
     "Twilightbelly/Characters/Vorgansharax.md",
-    "Twilightbelly/Characters/Mournwillow.md",
-    "src/Jotun.png",
-    "src/Nomad.png",
-    "Twilightbelly/Dinosaurs.md",
-    "src/dndtwilightbelly.png",
-    "src/Ancient tree WIP.png",
-    "src/Fortune dragon.png",
-    "src",
-    "Twilightbelly/Humans.md",
-    "Twilightbelly/Locations/POI/Vorgansharax's lair.md",
+    "Twilightbelly/Locations/POI/Swamphitheatre of Valor.md",
+    "Twilightbelly/Locations/POI/Wayfarer's Rest.md",
+    "Twilightbelly/Plothooks/Emerald Trail.md",
+    "Twilightbelly/Locations/POI/Gorgewatch Outpost.md",
+    "Starcrest/Plothooks",
     "Twilightbelly/Locations/Ticklebelly Hills.md",
-    "Twilightbelly/Locations/Mossveil Marshlands.md",
-    "Twilightbelly/Locations/Glyphpeak Gorge.md",
-    "Twilightbelly/Locations/Sandswept Plateau.md",
     "Twilightbelly/Locations/POI/Ruins of the Phalan City.md",
+    "Twilightbelly/Affiliations/Cult of the Dragon.md",
+    "Twilightbelly/Plothooks/Twilight Hour.md",
+    "Twilightbelly/Locations/POI/Bellybreak Passage.md",
+    "Twilightbelly/Locations/POI/Boghzend Keep.md",
+    "Twilightbelly/Affiliations/Bogofthar Tribe.md",
+    "Twilightbelly/Locations/POI/Reedhaven Garrison.md",
+    "Twilightbelly/Locations/POI/Gunzar Camp.md",
+    "Twilightbelly/Locations/POI/Orchard Grove.md",
+    "Twilightbelly/Locations/Raptorspine Mountains.md",
+    "Twilightbelly/Plothooks/Quagmire's Crown.md",
+    "Twilightbelly/Plothooks/Glyphite.md",
+    "Twilightbelly/Plothooks/Eon Trials.md",
+    "src/Ancient tree WIP.png",
+    "src/dndtwilightbelly.png",
+    "src/Jotun.png",
+    "Twilightbelly/Plothooks",
+    "Starcrest/Affiliations",
+    "Twilightbelly/Affiliations",
+    "src/Nomad.png",
+    "src",
     "Twilightbelly/Locations/POI",
     "Boyerson_2023-06-23-23-14.map",
     "Niepotwierdzony 720334.crdownload",
     "Twilightbelly/Locations",
     "Twilightbelly/Characters",
-    "Starcrest/Locations",
-    "Starcrest/Characters",
-    "Starcrest",
-    "Twilightbelly",
     "Untitled.canvas"
   ]
 }

@@ -1,0 +1,1 @@
+Decorative item with [[Glyphite]] charm embedded into it. Re-skin of some fun magical item.
