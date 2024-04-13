@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "b2fe0b86e3d25864",
+    "type": "split",
+    "children": [
+      {
+        "id": "be749332541be13d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c43197e5e3d12696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Starcrest/Imperials.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "257571042c85b074",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfbf841cdcf7d067",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81ae99fe27c9ae0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddfc3e8e67eea1ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0fc89f692b608661",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2cda566aac03114c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f0b89b5ab084cdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c9a919065434f8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Starcrest/Imperials.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8954e32d7522365",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Starcrest/Imperials.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca6a949253e936ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "18cfeb2f7e97b6a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Starcrest/Imperials.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c43197e5e3d12696",
+  "lastOpenFiles": [
+    "Starcrest Family.md",
+    "Starcrest/Imperials.md",
+    "Starcrest/Characters/Cedric Starcrest.md",
+    "Starcrest/Moonbound Beastfolk.md",
+    "Twilightbelly/Ticklebelly Hill Dwarfs.md",
+    "Twilightbelly/Locations/Eonholme Bowels.md",
+    "Twilightbelly/Locations/Grimstone Dominion.md",
+    "Twilightbelly/Locations/Untitled.md",
+    "Twilightbelly/Locations/City-state of Phalan.md",
+    "Twilightbelly/Locations/Raptorspine Mountains.md",
+    "Twilightbelly/Characters/Ulgrim Twilightbelly.md",
+    "Tomluk's Campaign.md",
+    "Twilightbelly/Jotun Stone Giants.md",
+    "Twilightbelly/Humans of Phalan.md",
+    "Twilightbelly/Dragons.md",
+    "Twilightbelly/Characters/Ashen Marble.md",
+    "Twilightbelly/Characters/Vorgansharax.md",
+    "Twilightbelly/Characters/Mournwillow.md",
+    "src/Jotun.png",
+    "src/Nomad.png",
+    "Twilightbelly/Dinosaurs.md",
+    "src/dndtwilightbelly.png",
+    "src/Ancient tree WIP.png",
+    "src/Fortune dragon.png",
+    "src",
+    "Twilightbelly/Humans.md",
+    "Twilightbelly/Locations/POI/Vorgansharax's lair.md",
+    "Twilightbelly/Locations/Ticklebelly Hills.md",
+    "Twilightbelly/Locations/Mossveil Marshlands.md",
+    "Twilightbelly/Locations/Glyphpeak Gorge.md",
+    "Twilightbelly/Locations/Sandswept Plateau.md",
+    "Twilightbelly/Locations/POI/Ruins of the Phalan City.md",
+    "Twilightbelly/Locations/POI",
+    "Boyerson_2023-06-23-23-14.map",
+    "Niepotwierdzony 720334.crdownload",
+    "Twilightbelly/Locations",
+    "Twilightbelly/Characters",
+    "Starcrest/Locations",
+    "Starcrest/Characters",
+    "Starcrest",
+    "Twilightbelly",
+    "Untitled.canvas"
+  ]
+}
