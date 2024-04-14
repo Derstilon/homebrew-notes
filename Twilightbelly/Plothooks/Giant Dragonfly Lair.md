@@ -1,0 +1,1 @@
+[Giant Dragonflies](https://2e.aonprd.com/MonsterFamilies.aspx?ID=133) made their lair in northern parts of the [[Mossveil Marshlands]] and started rapidly multiply and hunt local fauna. [[Bogofthar Tribe]] issued a bounty for their eradication.

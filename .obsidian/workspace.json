@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "03ca0d1fe7098124",
+        "id": "21eeb9782b65dd23",
         "type": "tabs",
         "children": [
           {
-            "id": "34d6bfca1facff87",
+            "id": "28cdc8855b267eb5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Twilightbelly/Locations/Grimstone Dominion.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Giant Dragonfly Lair",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,57 +81,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c9a919065434f8d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
-            "id": "b8954e32d7522365",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "ca6a949253e936ed",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "sortOrder": "frequencyReverse",
+                "useHierarchy": false
               }
             }
-          },
-          {
-            "id": "18cfeb2f7e97b6a4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 553.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -138,40 +106,41 @@
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false,
       "fantasy-content-generator:Fantasy Generators": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "34d6bfca1facff87",
+  "active": "28cdc8855b267eb5",
   "lastOpenFiles": [
-    "src/Fortune dragon.png",
-    "Starcrest/Characters/Cedric Starcrest.md",
-    "Twilightbelly/Characters/Ulgrim Twilightbelly.md",
-    "Twilightbelly/Characters/Mournwillow.md",
+    "Twilightbelly/Locations/Glyphpeak Gorge.md",
+    "Twilightbelly/Plothooks/Glyphite.md",
+    "Twilightbelly/Affiliations/Jotun Stone Giants.md",
+    "Twilightbelly/Locations/Grimstone Dominion.md",
+    "src/Map.png",
+    "Twilightbelly/Locations/Dustswept Plateau.md",
+    "Twilightbelly/Locations/Mossveil Marshlands.md",
+    "Twilightbelly/Locations/POI/Boghzend Keep.md",
+    "Twilightbelly/Locations/Eonholme Bowels.md",
+    "Twilightbelly/Characters/Ridge Quartzite.md",
     "Twilightbelly/Characters/Atlas Agate.md",
+    "Twilightbelly/Characters/Mournwillow.md",
     "Twilightbelly/Characters/Silt Slate.md",
     "Twilightbelly/Characters/Ashen Marble.md",
-    "Twilightbelly/Characters/Vorgansharax.md",
-    "Twilightbelly/Locations/POI/Swamphitheatre of Valor.md",
-    "Twilightbelly/Locations/POI/Wayfarer's Rest.md",
-    "Twilightbelly/Plothooks/Emerald Trail.md",
-    "Twilightbelly/Locations/POI/Gorgewatch Outpost.md",
-    "Starcrest/Plothooks",
-    "Twilightbelly/Locations/Ticklebelly Hills.md",
-    "Twilightbelly/Locations/POI/Ruins of the Phalan City.md",
-    "Twilightbelly/Affiliations/Cult of the Dragon.md",
-    "Twilightbelly/Plothooks/Twilight Hour.md",
-    "Twilightbelly/Locations/POI/Bellybreak Passage.md",
-    "Twilightbelly/Locations/POI/Boghzend Keep.md",
-    "Twilightbelly/Affiliations/Bogofthar Tribe.md",
-    "Twilightbelly/Locations/POI/Reedhaven Garrison.md",
-    "Twilightbelly/Locations/POI/Gunzar Camp.md",
-    "Twilightbelly/Locations/POI/Orchard Grove.md",
-    "Twilightbelly/Locations/Raptorspine Mountains.md",
-    "Twilightbelly/Plothooks/Quagmire's Crown.md",
-    "Twilightbelly/Plothooks/Glyphite.md",
+    "Twilightbelly/Affiliations/Council of the Three Rocks.md",
+    "Twilightbelly/Plothooks/Giant Dragonfly Lair.md",
     "Twilightbelly/Plothooks/Eon Trials.md",
+    "Twilightbelly/Plothooks/Arcane Storm.md",
+    "Twilightbelly/Locations/POI/Riftloom Citadel.md",
+    "Twilightbelly/Affiliations/Cult of the Dragon.md",
+    "Twilightbelly/Plothooks/Emerald Trail.md",
+    "Twilightbelly/Locations/POI/Springwaters of the Emerald Trail.md",
+    "Twilightbelly/Affiliations/Humans of Phalan.md",
+    "Twilightbelly/Affiliations/Bogofthar Tribe.md",
+    "Twilightbelly/Affiliations/Dinosaurs.md",
+    "Twilightbelly/Affiliations/Dragons.md",
+    "src/Fortune dragon.png",
+    "Starcrest/Plothooks",
     "src/Ancient tree WIP.png",
     "src/dndtwilightbelly.png",
     "src/Jotun.png",

@@ -1,5 +1,17 @@
 #PC #He/Him #age21
 
+# Character Inspiration
+* [Rebel Prince](https://tvtropes.org/pmwiki/pmwiki.php/Main/RebelPrince)
+## Role-play
+```vid
+https://youtu.be/tXYmwMfRdEA
+```
+```vid
+https://youtu.be/gmSWeoWqfHw
+```
+```vid
+https://youtu.be/vJIlQMvGNhk
+```
 ## 50 Character Builder Questions
 by Ginny Di
 _________________________________________________________________________________________________________

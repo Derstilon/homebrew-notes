@@ -1,0 +1,2 @@
+Their leader was controlled by [[Cult of the Dragon]], and soldiers of the [[City-state of Phalan]] delivered will of the dragon called [[Vorgansharax]]. In the end the dragon destroyed their city as well.
+Currently citizens of Phalan are scattered around the world, and [[Ruins of the Phalan City]] are in control of the cultists.

@@ -1,1 +1,2 @@
-The route through [[Dustswept Plateau]] that allows safe travel between [[Mossveil Marshlands]] and [[Glyphpeak Gorge]] as long one has access to experienced **Trailsworn** from the [[Veltoch Tribe]]
+The route through [[Dustswept Plateau]] that allows safe travel between [[Mossveil Marshlands]] and [[Glyphpeak Gorge]] as long one has access to experienced **Trailsworn** from the [[Veltoch Tribe]].
+Some mysterious forces reduced amount of fresh water that flows to the [[Springwaters of the Emerald Trail]]. This oasis is a crucial stopping point on the passage through [[Dustswept Plateau]] and [[Veltoch Tribe]] issued an investigation for the source of this water shortage.

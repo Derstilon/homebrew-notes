@@ -3,7 +3,17 @@
 #PC #He/Him #age75
 # *The One Blessed by the [[Mournwillow]]*
 ![[dndtwilightbelly.png]]
+# Backstory
+Ulgrim was born into a nomadic tribe that called the [[Ticklebelly Hills]] home. 
 
+During the [[Twilight Hour]] he was one of the [[Ticklebelly Hill Dwarfs]] suffering from [[Vorgansharax]] attack on the hills. He desperately tired to escape the destruction through the [[Bellybreak Passage]]. He almost died, was saved only thanks to [[Mournwillow]] that blessed him giving him his now signature pink hair.
+# Character Inspiration
+* [Energetic and Soft-Spoken Duo](https://tvtropes.org/pmwiki/pmwiki.php/Main/EnergeticAndSoftSpokenDuo)
+* [The Quiet One](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheQuietOne)
+## Role-play
+```vid
+https://youtu.be/Q-Whpfb7BFg
+```
 ## 50 Character Builder Questions
 by Ginny Di
 _______________________________________________________________________________________________________________________________________________________________
@@ -205,5 +215,5 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________________________
 50. As a kid, what did you want to be when you grew up?
 
-    - A warrior in the Wetland Ward under command of [[Atlas Agate]].
+    - A warrior in the Wetland Ward under the command of [[Atlas Agate]].
 _______________________________________________________________________________________________________________________________________________________________
