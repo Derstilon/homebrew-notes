@@ -20,6 +20,6 @@ Leader of the Wetland Ward forces.
 Serves under the Boglord directly.
 Currently this title is held by [[Atlas Agate]]
 ## Trial of Valor
-Trial organized once every 10 years. It is one of the [[Eon Trials]].
+Trial organized once every 10 years. It is the first of the [[Eon Trials]].
 ## Tulka feast
 When warriors come back to the city they host community feast. When someone joins them, it's in good manners to tell everyone stories of your heroic deeds.

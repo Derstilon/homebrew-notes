@@ -1,3 +1,3 @@
 # History
-They didn't die this time.
+They didn't die this time, duh.
 # Notable Dinosaurs

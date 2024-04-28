@@ -2,15 +2,15 @@
 ```leaflet 
 id: leaflet-map 
 image: [[Map.png]] 
-height: 800px 
+height: 900px 
 lat: 50 
 long: 50 
 minZoom: 1
-maxZoom: 10 
-defaultZoom: 5 
+maxZoom: 4 
+defaultZoom: 2 
 unit: meters 
-scale: 200
-marker: default, 39.983334, -82.983330, [[Note]] 
+scale: 2
+#marker: default, -50, 0, [[Note]] 
 darkMode: false 
 ```
 ```leaflet

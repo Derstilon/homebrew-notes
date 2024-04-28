@@ -2,6 +2,8 @@
 
 # Character Inspiration
 * [Rebel Prince](https://tvtropes.org/pmwiki/pmwiki.php/Main/RebelPrince)
+* [Socialite](https://tvtropes.org/pmwiki/pmwiki.php/Main/Socialite)
+* 
 ## Role-play
 ```vid
 https://youtu.be/tXYmwMfRdEA

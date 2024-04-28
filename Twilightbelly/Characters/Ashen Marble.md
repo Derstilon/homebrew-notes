@@ -3,7 +3,9 @@
 #They/Them
 # *The Runebound Witch of the Marsh*
 Master figure to the [[Ulgrim Twilightbelly]]
-Has giant Boulder-toad as a stoic pet.
+They have a giant Boulder-toad as a stoic pet.
+## Mr Bedcroak
+Familiar of the witch. Often playfully named **Slow Sediment** or **Old Fossil** by her.
 ## Stat-block
 Themed as an occult [Witch](https://2e.aonprd.com/Classes.aspx?ID=38) with Giant Toad [Animal Companion](https://2e.aonprd.com/Rules.aspx?ID=2113) in place of familiar.
 Has swim speed equal to land speed

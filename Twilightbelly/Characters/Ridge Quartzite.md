@@ -1,5 +1,6 @@
 > [!quote] The current Trailblazer has spent the QUARTZer of his life in the Eonholme.
 
+#He/Him 
 # *The Trailblazer*
 Current leader of the Trailsworn order. Has a characteristic ridge on top of the head similar to how cowboy hat forms.
 ## Stat-block
