@@ -7,5 +7,6 @@ Lush jungle caves with giant flora and fauna. Has bright huge clearances with cr
 ## Subareas
 ## Inhabitants
 [[Dinosaurs]]
+[[Conrasu]]
 ## Neighboring areas
 Exit to the surface in [[Grimstone Dominion]]

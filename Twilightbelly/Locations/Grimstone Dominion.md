@@ -22,7 +22,7 @@ image: src\Map.png
 ## Points of interest
 [[Boghzend Keep]]
 [[Wayfarer's Rest]]
-[[Gorgewatch Outpost]]
+[[Canyonwatch Outpost]]
 Entrance to the [[Eonholme Bowels]]
 ## Subareas
 [[Mossveil Marshlands]]

@@ -1,1 +1,1 @@
-The last stop on the [[Emerald Trail]] 
+The last stop on the [[Emerald Trail]]. From there one can enter [[Glyphpeak Gorge]] or go along the mountains further north.

@@ -6,7 +6,16 @@
 # Backstory
 Ulgrim was born into a nomadic tribe that called the [[Ticklebelly Hills]] home. 
 
-During the [[Twilight Hour]] he was one of the [[Ticklebelly Hill Dwarfs]] suffering from [[Vorgansharax]] attack on the hills. He desperately tired to escape the destruction through the [[Bellybreak Passage]]. He almost died, was saved only thanks to [[Mournwillow]] that blessed him giving him his now signature pink hair.
+During the [[Twilight Hour]] he was one of the [[Ticklebelly Hill Dwarfs]] suffering from [[Vorgansharax]] attack on the hills. He desperately tired to escape the destruction through the [[Bellybreak Passage]]. He almost died, was saved only thanks to [[Mournwillow]] that blessed him giving him his now signature pink hair. 
+
+Later [[Jotun Stone Giants]] found him at the edge of [[Bellybreak Passage]] and brought him to the [[Wayfarer's Rest]]. There [[Ashen Marble]] took interest in him (maybe they were influenced by their patron?). Ashen took him in as an apprentice and trained him in manipulation of primal magic. 
+
+Over the years he learnt to navigate himself around the giant sized settlement. Using magical vines to reach high places and moving through shortcuts not planned to be used as a passage.
+
+When [[Eon Trials]] were supposed to start Ulgrim wanted to proof himself to be worthy of recognition among giants, even with his small posture. When his request was declined, heartbroken he fled the [[Grimstone Dominion]] to the south. This is where he started his work as an adventurer guarding caravans from monsters that eventually led him to the [[Star Map]]
+## Familiar
+[[Child of the Willow]] is an energetic partner for stoic and irresponsible Ulgrim. Despite being young small leshy, they are much more familiarized in how society works than their druid partner.
+
 # Character Inspiration
 * [Energetic and Soft-Spoken Duo](https://tvtropes.org/pmwiki/pmwiki.php/Main/EnergeticAndSoftSpokenDuo)
 * [The Quiet One](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheQuietOne)

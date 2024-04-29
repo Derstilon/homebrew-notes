@@ -1,0 +1,1 @@
+Stronghold in the [[Glyphpeak Gorge]] containing most of the written knowledge of [[Jotun Stone Giants]]. It is managed by [[Quiet-Zoned Calcite]]

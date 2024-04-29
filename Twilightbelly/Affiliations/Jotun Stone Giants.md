@@ -12,6 +12,14 @@ Each tribe resides in their terrain of choice
 ## Meals
 During a meal everyone gathers around the fire source a passes the bowl around for everyone to get their ration. Next is passed giant chunk of rock salt. Giant's use special grindstone and palm of their hands to grind the seasonings enough for their taste. This ritual is hard and somewhat painful for the soft-skin races. 
 
+## About other races
+They have special suffixes they use for nicknames for people of other races
+- ...belly - For any dwarven tribe like [[Ticklebelly Hill Dwarfs]]. It incentives how much of their silhouette is taken by their bellies.
+- ...grin - For orcs
+- ...pokey - For long pointy ear races
+- ...shoe - For halflings
+- ...shadow - for dragons and other giant flying creatures
+
 ## Coming of Age Ceremony
 Everyone that passes [[Eon Trials]] is considered equal to all adult giants. They are taking part in ceremony where all current members of the [[Council of the Three Rocks]]
 # Notable Giants

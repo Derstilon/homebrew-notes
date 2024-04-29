@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "956189a7a5470ca3",
+        "id": "464f219fce147bb1",
         "type": "tabs",
         "children": [
           {
-            "id": "15d00ba34bdf04e9",
+            "id": "4a53791a4b024435",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Twilightbelly/Characters/Mournwillow.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Gorgewatch Outpost",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Twilightbelly/Characters/Mournwillow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Twilightbelly/Characters/Mournwillow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Twilightbelly/Characters/Mournwillow.md"
+              }
             }
           }
         ]
@@ -142,34 +150,35 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "15d00ba34bdf04e9",
+  "active": "4a53791a4b024435",
   "lastOpenFiles": [
-    "Starcrest/Locations/The Empire.md",
-    "Starcrest/Affiliations/Imperials.md",
-    "Twilightbelly/Plothooks/Glyphite.md",
-    "Twilightbelly/Affiliations/Bogofthar Tribe.md",
-    "Twilightbelly/Affiliations/Council of the Three Rocks.md",
-    "Twilightbelly/Affiliations/Cult of the Dragon.md",
-    "Twilightbelly/Affiliations/Dinosaurs.md",
-    "Twilightbelly/Affiliations/Dragons.md",
-    "Twilightbelly/Affiliations/Humans of Phalan.md",
     "Twilightbelly/Affiliations/Jotun Stone Giants.md",
-    "Twilightbelly/Affiliations/Kobolds.md",
-    "Twilightbelly/Affiliations/Sequinscale Caravan.md",
-    "Twilightbelly/Affiliations/Throthiz Tribe.md",
-    "Twilightbelly/Affiliations/Ticklebelly Hill Dwarfs.md",
-    "Twilightbelly/Affiliations/Veltoch Tribe.md",
-    "Twilightbelly/Characters/Atlas Agate.md",
-    "Twilightbelly/Characters/Fizzy Brimstone.md",
-    "Twilightbelly/Characters/Ridge Quartzite.md",
-    "Twilightbelly/Characters/Silt Slate.md",
-    "Twilightbelly/Characters/Ulgrim Twilightbelly.md",
-    "Twilightbelly/Characters/Vorgansharax.md",
-    "Twilightbelly/Characters/Quiet-Zoned Calcite.md",
-    "Twilightbelly/Characters/Flarexo & Chizzletón.md",
-    "Twilightbelly/Characters/Mellow Basalt.md",
-    "Twilightbelly/Characters/Mournwillow.md",
     "Twilightbelly/Characters/Ashen Marble.md",
+    "Twilightbelly/Characters/Vorgansharax.md",
+    "Twilightbelly/Characters/Ulgrim Twilightbelly.md",
+    "Twilightbelly/Characters/Silt Slate.md",
+    "Twilightbelly/Characters/Ridge Quartzite.md",
+    "Twilightbelly/Characters/Quiet-Zoned Calcite.md",
+    "Twilightbelly/Characters/Mournwillow.md",
+    "Twilightbelly/Characters/Mellow Basalt.md",
+    "Twilightbelly/Characters/Flarexo & Chizzletón.md",
+    "Twilightbelly/Characters/Fizzy Brimstone.md",
+    "Twilightbelly/Characters/Child of the Willow.md",
+    "Twilightbelly/Characters/Atlas Agate.md",
+    "Twilightbelly/Affiliations/Throthiz Tribe.md",
+    "Twilightbelly/Locations/POI/Ruins of the Phalan City.md",
+    "Twilightbelly/Locations/POI/Springwaters of the Emerald Trail.md",
+    "Twilightbelly/Locations/POI/Swamphitheatre of Valor.md",
+    "Twilightbelly/Locations/POI/Tulka Bogstille.md",
+    "Twilightbelly/Locations/POI/Verdant Watchpost.md",
+    "Twilightbelly/Locations/POI/Vorgansharax's lair.md",
+    "Twilightbelly/Locations/POI/Wayfarer's Rest.md",
+    "Twilightbelly/Locations/Grimstone Dominion.md",
+    "Twilightbelly/Locations/POI/Glyphite Archives.md",
+    "Twilightbelly/Locations/POI/Gunzar Camp.md",
+    "Twilightbelly/Locations/POI/Gorgewatch Outpost.md",
+    "Twilightbelly/Locations/POI/Canyonwatch Outpost.md",
+    "src/Child.png",
     "src/Jotun.png",
     "Lost Civilization/Plothooks",
     "Lost Civilization/Locations",
