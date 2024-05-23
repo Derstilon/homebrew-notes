@@ -9,4 +9,4 @@ Lush jungle caves with giant flora and fauna. Has bright huge clearances with cr
 [[Dinosaurs]]
 [[Conrasu]]
 ## Neighboring areas
-Exit to the surface in [[Grimstone Dominion]]
+Exit to the surface in [[Grimstone Dominiom]]

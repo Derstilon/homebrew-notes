@@ -1,5 +1,7 @@
 #PC #He/Him #age21
 
+https://www.heroforge.com/load_config%3D518441970/
+![[Cedrick.png]]
 # Character Inspiration
 * [Rebel Prince](https://tvtropes.org/pmwiki/pmwiki.php/Main/RebelPrince)
 * [Socialite](https://tvtropes.org/pmwiki/pmwiki.php/Main/Socialite)

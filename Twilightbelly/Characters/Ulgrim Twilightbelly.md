@@ -2,6 +2,9 @@
 
 #PC #He/Him #age75
 # *The One Blessed by the [[Mournwillow]]*
+https://www.heroforge.com/load_config%3D518440183/
+https://pathbuilder2e.com/launch.html?build=762605
+![[Twilightbelly.png]]
 ![[dndtwilightbelly.png]]
 # Backstory
 Ulgrim was born into a nomadic tribe that called the [[Ticklebelly Hills]] home. 
@@ -12,9 +15,9 @@ Later [[Jotun Stone Giants]] found him at the edge of [[Bellybreak Passage]] and
 
 Over the years he learnt to navigate himself around the giant sized settlement. Using magical vines to reach high places and moving through shortcuts not planned to be used as a passage.
 
-When [[Eon Trials]] were supposed to start Ulgrim wanted to proof himself to be worthy of recognition among giants, even with his small posture. When his request was declined, heartbroken he fled the [[Grimstone Dominion]] to the south. This is where he started his work as an adventurer guarding caravans from monsters that eventually led him to the [[Star Map]]
+When [[Eon Trials]] were supposed to start Ulgrim wanted to proof himself to be worthy of recognition among giants, even with his small posture. When his request was declined, heartbroken he fled the [[Grimstone Dominiom]] to the south. This is where he started his work as an adventurer guarding caravans from monsters that eventually led him to the [[Star Map]]
 ## Familiar
-[[Child of the Willow]] is an energetic partner for stoic and irresponsible Ulgrim. Despite being young small leshy, they are much more familiarized in how society works than their druid partner.
+[[Mourn Child]] is an energetic partner for stoic and irresponsible Ulgrim. Despite being young small leshy, they are much more familiarized in how society works than their druid partner.
 
 # Character Inspiration
 * [Energetic and Soft-Spoken Duo](https://tvtropes.org/pmwiki/pmwiki.php/Main/EnergeticAndSoftSpokenDuo)
@@ -64,7 +67,7 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________________________________
 10. When was the last time you cried?
 
-    - Upon escaping from the [[Grimstone Dominion]].
+    - Upon escaping from the [[Grimstone Dominiom]].
 _______________________________________________________________________________________________________________________________________________________________
 11. Are you a good liar?
 

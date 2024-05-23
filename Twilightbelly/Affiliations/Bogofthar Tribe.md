@@ -1,4 +1,4 @@
-Tribe of mighty warriors, tasked with protection of swampy terrains in the south of the [[Grimstone Dominion]] and responsible for the guard of [[Bellybreak Passage]].
+Tribe of mighty warriors, tasked with protection of swampy terrains in the south of the [[Grimstone Dominiom]] and responsible for the guard of [[Bellybreak Passage]].
 
 They organize trials on the [[Swamphitheatre of Valor]] to celebrate skills of their warriors.
 # Tribe Culture

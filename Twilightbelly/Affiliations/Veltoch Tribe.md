@@ -4,7 +4,7 @@ To train their future scouts and beast-tamers they organize egg-hunt-like quests
 - Trailsworn recruit elite beast tamers and scouts.
 - They help with travel through the [[Dustswept Plateau]] along the [[Emerald Trail]]
 - Lately the tribe fights against the ever expanding drought in the [[Springwaters of the Emerald Trail]]
-- Veltoch observe migration patterns of all creatures inhabiting mucks, savanna and cliffs all over the [[Grimstone Dominion]]
+- Veltoch observe migration patterns of all creatures inhabiting mucks, savanna and cliffs all over the [[Grimstone Dominiom]]
 - Although most of the time, giants from different tribes have vastly different options about basically everything, when they join the trail or expedition, everyone respects Veltoch’s expertise.
 - They use special fist bump as a greetings. The way they do this creates sparks from between their knuckles rubbing against each other. Because of that their fists are sharp and more painful when they struck someone.
 # Terminology

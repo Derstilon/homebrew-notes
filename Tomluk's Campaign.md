@@ -1,6 +1,6 @@
 # General notes
 ## Main Locations
-[[Grimstone Dominion]]
+[[Grimstone Dominiom]]
 [[Eonholme Bowels]]
 [[The Empire]]
 [[Capital of the Lost Civilization]]

@@ -1,5 +1,5 @@
 # Description
-The coming-of-age ritual organized by the tribes of the [[Grimstone Dominion]] for young [[Jotun Stone Giants]]. Passing this trials is required to be allowed to join expeditions to the [[Eonholme Bowels]]
+The coming-of-age ritual organized by the tribes of the [[Grimstone Dominiom]] for young [[Jotun Stone Giants]]. Passing this trials is required to be allowed to join expeditions to the [[Eonholme Bowels]]
 
 # Plot hooks
 ### 1. Trial of Valor
