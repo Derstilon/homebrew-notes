@@ -41,8 +41,7 @@ Everyone that passes [[Eon Trials]] is considered equal to all adult giants. The
 [[Silt Slate]]
 
 # Emergency Giant Names
-1. Stonewall Granite
-2. Boulder Obsidian
+1. Boulder Obsidian
 3. Echo Limestone
 4. Granite Goliath
 5. Pebble Feldspar
@@ -51,3 +50,11 @@ Everyone that passes [[Eon Trials]] is considered equal to all adult giants. The
 8. Shard Flint
 9. Granite Hulker
 10. Rocky Rhyolite
+11. Blushing Rhodonite
+12. Mighty Mica
+13. Craggy Chert
+14. Gritty Orthoclase
+15. Radiant Eudialyte
+16. Stoic Staurolite
+17. Enigmatic Charoite
+18. Breeze Aquamarine

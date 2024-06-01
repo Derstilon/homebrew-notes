@@ -1,3 +1,4 @@
 # History
-# Notable Nomad Dwarfs
+They can be created through moon-tainted blood
+# Notable Beastfolk
 [[Cedric Starcrest]]

@@ -16,6 +16,16 @@ https://youtu.be/gmSWeoWqfHw
 ```vid
 https://youtu.be/vJIlQMvGNhk
 ```
+## Character Goals
+```vid
+https://youtu.be/DXUnEk4cuYI
+```
+### Short term
+* Find more clues about the constellation that relates to the [[Lost Civilization]]
+### Mid term
+* Solve mystery of [[Starcrest Family]] related to the [[Eclipse Ritual]]
+### Long term
+* Purify the moon-tainted blood
 ## 50 Character Builder Questions
 by Ginny Di
 _________________________________________________________________________________________________________
@@ -33,7 +43,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 4. If you could go back and change one decision you made in the past, what would you change?
 
-    - He is pretty young, so he didn't have much time to make any regrettable decisions. He is pretty frustrated with many dead-end leads on his path to get rid of his beastkin-tainted blood.
+    - He is pretty young, so he didn't have much time to make any regrettable decisions. He is pretty frustrated with many dead-end leads on his path to get rid of his moon-tainted blood.
 _________________________________________________________________________________________________________
 5. Tell me about your first kiss.
 
@@ -125,7 +135,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________
 27. Do you want kids someday?
 
-    - He likes kids, and when the curse is high, this feeling grows even stronger, but he doesn't want to have kids right now, at least until the problem with the beast-tainted blood isn't resolved. He doesn't want to pass down this issue to his children.
+    - He likes kids, and when the curse is high, this feeling grows even stronger, but he doesn't want to have kids right now, at least until the problem with the moon-tainted blood isn't resolved. He doesn't want to pass down this issue to his children.
 _________________________________________________________________________________________________________
 28. Are you a planner, or more spontaneous?
 

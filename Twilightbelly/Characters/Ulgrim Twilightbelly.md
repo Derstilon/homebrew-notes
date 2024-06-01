@@ -18,7 +18,6 @@ Over the years he learnt to navigate himself around the giant sized settlement. 
 When [[Eon Trials]] were supposed to start Ulgrim wanted to proof himself to be worthy of recognition among giants, even with his small posture. When his request was declined, heartbroken he fled the [[Grimstone Dominiom]] to the south. This is where he started his work as an adventurer guarding caravans from monsters that eventually led him to the [[Star Map]]
 ## Familiar
 [[Mourn Child]] is an energetic partner for stoic and irresponsible Ulgrim. Despite being young small leshy, they are much more familiarized in how society works than their druid partner.
-
 # Character Inspiration
 * [Energetic and Soft-Spoken Duo](https://tvtropes.org/pmwiki/pmwiki.php/Main/EnergeticAndSoftSpokenDuo)
 * [The Quiet One](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheQuietOne)
@@ -26,6 +25,17 @@ When [[Eon Trials]] were supposed to start Ulgrim wanted to proof himself to be 
 ```vid
 https://youtu.be/Q-Whpfb7BFg
 ```
+## Character Goals
+```vid
+https://youtu.be/DXUnEk4cuYI
+```
+### Short term
+* pay off the [[Mournwillow]]'s life debt
+### Mid term
+* Investigate the [[Star Map]]
+### Long term
+* Gain respect of [[Jotun Stone Giants]]
+
 ## 50 Character Builder Questions
 by Ginny Di
 _______________________________________________________________________________________________________________________________________________________________
